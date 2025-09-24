@@ -68,3 +68,4 @@ https://cloud.mail.ru/public/1FwZ/1MNxUXoa7/HTML%2C%20CSS/Продвинутый
   font-weight: 900;
   font-style: italic;
 }
+https://boards.yandex.ru/whiteboard/?hash=3d8caf8ea1a388ae6e6ea7b0b035d4ad
