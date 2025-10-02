@@ -69,3 +69,4 @@ https://cloud.mail.ru/public/1FwZ/1MNxUXoa7/HTML%2C%20CSS/Продвинутый
   font-style: italic;
 }
 https://boards.yandex.ru/whiteboard/?hash=3d8caf8ea1a388ae6e6ea7b0b035d4ad
+https://design.tutsplus.com/tutorials/how-to-use-blend-tool-for-lettering--cms-31086
