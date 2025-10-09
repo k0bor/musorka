@@ -71,3 +71,4 @@ https://cloud.mail.ru/public/1FwZ/1MNxUXoa7/HTML%2C%20CSS/Продвинутый
 https://boards.yandex.ru/whiteboard/?hash=3d8caf8ea1a388ae6e6ea7b0b035d4ad
 https://design.tutsplus.com/tutorials/how-to-use-blend-tool-for-lettering--cms-31086
 https://boards.yandex.ru/whiteboard/?hash=8786b7d971d0f899fbf58c1fccc81c44
+https://www.python.org/ftp/python/3.9.10/python-3.9.10-amd64.exe
