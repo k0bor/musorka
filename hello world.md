@@ -73,3 +73,6 @@ https://design.tutsplus.com/tutorials/how-to-use-blend-tool-for-lettering--cms-3
 https://boards.yandex.ru/whiteboard/?hash=8786b7d971d0f899fbf58c1fccc81c44
 https://www.python.org/ftp/python/3.9.10/python-3.9.10-amd64.exe
 https://rutube.ru/plst/832426/
+
+ https://boards.yandex.ru/whiteboard/?hash=376760f1c12d8853280b67247d744fae
+ 
