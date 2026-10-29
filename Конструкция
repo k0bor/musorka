@@ -75,3 +75,18 @@
 .
 Резюме: Использование нотаций IDEF0 и DFD в совокупности позволяет анализировать предметную область с разных сторон
 .
+
+
+def dict_diff(data1,data2):
+    data3 = data1.update(data2)
+    result = {}
+    for i in data3:
+        if data3[i] in data1 and data3[i] not in data2:
+            result[i] = 'deleted'
+        elif data3[i] not in data1 and data3[i] in data2:
+            result[i] = 'added'
+        elif data3[i] in data1 and data3[i] in data2 and data1[i] == data2[i]:
+            result[i] = 'unchanged'
+        elif data3[i] in data1 and data3[i] in data2 and data1[i] != data2[i]:
+            result[i] = 'changed'
+    return result
